@@ -13,4 +13,16 @@
 
 文件地址：`~/.config/alacritty/alacritty.yml`
 
+## 下载 JetBrains Mono
+
+地址：[链接](https://www.jetbrains.com/zh-cn/lp/mono/)
+
+## 问题
+
+###  提示 alacritty migrate
+
+具体路径下执行命令
+
+`/Applications/Alacritty.app/Contents/MacOS/alacritty migrate`
+
 【参考】：[alacritty 配置](https://tw93.fun/2023-02-06/alacritty.html)
